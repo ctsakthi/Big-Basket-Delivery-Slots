@@ -6,7 +6,7 @@ This is a small utility script written to automate the process and notify you wh
 This script uses python 3.x.
 1) Clone the repo 
 2) Run `pip install -r requirements`
-3) Run the script with `python3 BB_slot.py`
+3) Run the script with `python BB_slot.py`
 
 
 ## How to proceed further
